@@ -1,0 +1,11 @@
+Instagram/GoogleService-Info.plist
+
+Instagram/Assets.xcassets/
+DS.Store
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
